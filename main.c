@@ -3,6 +3,6 @@
 int	main(void)
 {
 	set_debug(1);
-    game_manager();
+	game_manager();
 	return (0);
 }
