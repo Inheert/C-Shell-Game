@@ -1,0 +1,12 @@
+# ignore compiled & generated file
+*.o
+*.exe
+
+# Files generated at runtime
+*.log
+*.lock
+*.tmp
+
+# ignore hidden system files
+.DS_Store
+Thumbs.db
